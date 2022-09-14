@@ -41,7 +41,7 @@ for line in data:  # Loop through all lines in data.
 # TO DO:
 # 1) Test whether the two dictionaries work and start at the right input
 # 2) Convert all data to lowercase
-# 3) Well we kinda need it to ask for and read input and save it as a variable 'input'
-# 4) Next we need it to figure out the majority tag in the data (it's inform, but let's not hard-code it). I guess loop through the training_data dictionary and check which value is most common  
-# 5) Create a 'baseline' which always assigns the majority tag, as a tag to any input. This isnt very difficult (or useful, but they want us to make it anyway lol)
-# 6) Create a 'baseline' which assigns a tag based on some simple keywords that we pick. Such as 'goodbye' gets tagged as 'bye'. Success rate needs to be 0.8
+# 3) Next we need it to figure out the majority tag in the data (it's inform, but let's not hard-code it). I guess loop through the training_data dictionary and check which value is most common  
+# 4) Create a 'baseline' which always assigns the majority tag, as a tag to any input. This isnt very difficult (or useful, but they want us to make it anyway lol)
+# 5) Create a 'baseline' which assigns a tag based on some simple keywords that we pick. Such as 'goodbye' gets tagged as 'bye'. Success rate needs to be 0.8
+# 6) Machine Learning stuff this is scary :o
